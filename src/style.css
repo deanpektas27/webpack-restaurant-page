@@ -1,0 +1,38 @@
+body {
+    background-color: #FBF0DD;
+}
+
+p {
+    margin: 75px;
+}
+
+.tab-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #643708;
+    color: white;
+}
+
+.tab-list li a {
+    display: block;
+    float: left;
+    padding: 16px;
+    text-decoration: none;
+    
+}
+
+.tab-list li a:hover {
+    background-color: #9b815d;
+    cursor: pointer;
+}
+
+#logo {
+    width: 250px;
+}
+
+#content {
+    text-align:center;
+}
+
